@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python caching & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and local configurations
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Local data (generated/raw datasets)
+data/*.csv
+data/*.parquet
+!data/.gitkeep
+
+# Trained models (binary weights)
+models/*.pkl
+!models/.gitkeep
+
+# Output reports and logs
+reports/*.json
+reports/*.csv
+reports/*.png
+!reports/.gitkeep
+
+# Streamlit local config & caching
+.streamlit/
