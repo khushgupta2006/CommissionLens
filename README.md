@@ -1,7 +1,7 @@
 # CommissionLens 🔍
 **Commission-Adjusted Alpha Prediction in Indian Mutual Funds**
 
-> *FEC · IIT Guwahati | Mentor: Harshita Sharma*
+> *FEC · IIT Guwahati*
 
 ---
 
